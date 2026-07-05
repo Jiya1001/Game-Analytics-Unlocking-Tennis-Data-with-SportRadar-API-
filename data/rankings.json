@@ -1,0 +1,702 @@
+[
+    {
+        "competitor_id": "P001",
+        "rank": 1,
+        "movement": -5,
+        "points": 6577,
+        "competitions_played": 26
+    },
+    {
+        "competitor_id": "P002",
+        "rank": 2,
+        "movement": 5,
+        "points": 2009,
+        "competitions_played": 24
+    },
+    {
+        "competitor_id": "P003",
+        "rank": 3,
+        "movement": 5,
+        "points": 8548,
+        "competitions_played": 35
+    },
+    {
+        "competitor_id": "P004",
+        "rank": 4,
+        "movement": -4,
+        "points": 9355,
+        "competitions_played": 24
+    },
+    {
+        "competitor_id": "P005",
+        "rank": 5,
+        "movement": 2,
+        "points": 8621,
+        "competitions_played": 12
+    },
+    {
+        "competitor_id": "P006",
+        "rank": 6,
+        "movement": 2,
+        "points": 3737,
+        "competitions_played": 19
+    },
+    {
+        "competitor_id": "P007",
+        "rank": 7,
+        "movement": 5,
+        "points": 1770,
+        "competitions_played": 32
+    },
+    {
+        "competitor_id": "P008",
+        "rank": 8,
+        "movement": 3,
+        "points": 1465,
+        "competitions_played": 18
+    },
+    {
+        "competitor_id": "P009",
+        "rank": 9,
+        "movement": 3,
+        "points": 9642,
+        "competitions_played": 10
+    },
+    {
+        "competitor_id": "P010",
+        "rank": 10,
+        "movement": 1,
+        "points": 3074,
+        "competitions_played": 12
+    },
+    {
+        "competitor_id": "P011",
+        "rank": 11,
+        "movement": 2,
+        "points": 6612,
+        "competitions_played": 18
+    },
+    {
+        "competitor_id": "P012",
+        "rank": 12,
+        "movement": 3,
+        "points": 1030,
+        "competitions_played": 30
+    },
+    {
+        "competitor_id": "P013",
+        "rank": 13,
+        "movement": -5,
+        "points": 10324,
+        "competitions_played": 16
+    },
+    {
+        "competitor_id": "P014",
+        "rank": 14,
+        "movement": 2,
+        "points": 7375,
+        "competitions_played": 21
+    },
+    {
+        "competitor_id": "P015",
+        "rank": 15,
+        "movement": 5,
+        "points": 11673,
+        "competitions_played": 13
+    },
+    {
+        "competitor_id": "P016",
+        "rank": 16,
+        "movement": -2,
+        "points": 2601,
+        "competitions_played": 31
+    },
+    {
+        "competitor_id": "P017",
+        "rank": 17,
+        "movement": -5,
+        "points": 10097,
+        "competitions_played": 12
+    },
+    {
+        "competitor_id": "P018",
+        "rank": 18,
+        "movement": -3,
+        "points": 7986,
+        "competitions_played": 29
+    },
+    {
+        "competitor_id": "P019",
+        "rank": 19,
+        "movement": 0,
+        "points": 5628,
+        "competitions_played": 29
+    },
+    {
+        "competitor_id": "P020",
+        "rank": 20,
+        "movement": -3,
+        "points": 1496,
+        "competitions_played": 35
+    },
+    {
+        "competitor_id": "P021",
+        "rank": 21,
+        "movement": -5,
+        "points": 3685,
+        "competitions_played": 10
+    },
+    {
+        "competitor_id": "P022",
+        "rank": 22,
+        "movement": -3,
+        "points": 7801,
+        "competitions_played": 16
+    },
+    {
+        "competitor_id": "P023",
+        "rank": 23,
+        "movement": 2,
+        "points": 11185,
+        "competitions_played": 21
+    },
+    {
+        "competitor_id": "P024",
+        "rank": 24,
+        "movement": 2,
+        "points": 9870,
+        "competitions_played": 25
+    },
+    {
+        "competitor_id": "P025",
+        "rank": 25,
+        "movement": -5,
+        "points": 7988,
+        "competitions_played": 35
+    },
+    {
+        "competitor_id": "P026",
+        "rank": 26,
+        "movement": 2,
+        "points": 3195,
+        "competitions_played": 25
+    },
+    {
+        "competitor_id": "P027",
+        "rank": 27,
+        "movement": -4,
+        "points": 9579,
+        "competitions_played": 13
+    },
+    {
+        "competitor_id": "P028",
+        "rank": 28,
+        "movement": -4,
+        "points": 1390,
+        "competitions_played": 33
+    },
+    {
+        "competitor_id": "P029",
+        "rank": 29,
+        "movement": -3,
+        "points": 9944,
+        "competitions_played": 14
+    },
+    {
+        "competitor_id": "P030",
+        "rank": 30,
+        "movement": 4,
+        "points": 1200,
+        "competitions_played": 11
+    },
+    {
+        "competitor_id": "P031",
+        "rank": 31,
+        "movement": -1,
+        "points": 7066,
+        "competitions_played": 15
+    },
+    {
+        "competitor_id": "P032",
+        "rank": 32,
+        "movement": -4,
+        "points": 8252,
+        "competitions_played": 25
+    },
+    {
+        "competitor_id": "P033",
+        "rank": 33,
+        "movement": 2,
+        "points": 7679,
+        "competitions_played": 25
+    },
+    {
+        "competitor_id": "P034",
+        "rank": 34,
+        "movement": -5,
+        "points": 7118,
+        "competitions_played": 10
+    },
+    {
+        "competitor_id": "P035",
+        "rank": 35,
+        "movement": 0,
+        "points": 4371,
+        "competitions_played": 25
+    },
+    {
+        "competitor_id": "P036",
+        "rank": 36,
+        "movement": 2,
+        "points": 2123,
+        "competitions_played": 18
+    },
+    {
+        "competitor_id": "P037",
+        "rank": 37,
+        "movement": 2,
+        "points": 9618,
+        "competitions_played": 25
+    },
+    {
+        "competitor_id": "P038",
+        "rank": 38,
+        "movement": -4,
+        "points": 2814,
+        "competitions_played": 23
+    },
+    {
+        "competitor_id": "P039",
+        "rank": 39,
+        "movement": 3,
+        "points": 2446,
+        "competitions_played": 16
+    },
+    {
+        "competitor_id": "P040",
+        "rank": 40,
+        "movement": 1,
+        "points": 9382,
+        "competitions_played": 10
+    },
+    {
+        "competitor_id": "P041",
+        "rank": 41,
+        "movement": 0,
+        "points": 2009,
+        "competitions_played": 34
+    },
+    {
+        "competitor_id": "P042",
+        "rank": 42,
+        "movement": -1,
+        "points": 10584,
+        "competitions_played": 13
+    },
+    {
+        "competitor_id": "P043",
+        "rank": 43,
+        "movement": -2,
+        "points": 4590,
+        "competitions_played": 18
+    },
+    {
+        "competitor_id": "P044",
+        "rank": 44,
+        "movement": 5,
+        "points": 6643,
+        "competitions_played": 27
+    },
+    {
+        "competitor_id": "P045",
+        "rank": 45,
+        "movement": 5,
+        "points": 9148,
+        "competitions_played": 18
+    },
+    {
+        "competitor_id": "P046",
+        "rank": 46,
+        "movement": -4,
+        "points": 3191,
+        "competitions_played": 27
+    },
+    {
+        "competitor_id": "P047",
+        "rank": 47,
+        "movement": -4,
+        "points": 1438,
+        "competitions_played": 34
+    },
+    {
+        "competitor_id": "P048",
+        "rank": 48,
+        "movement": 5,
+        "points": 8256,
+        "competitions_played": 16
+    },
+    {
+        "competitor_id": "P049",
+        "rank": 49,
+        "movement": 0,
+        "points": 1448,
+        "competitions_played": 34
+    },
+    {
+        "competitor_id": "P050",
+        "rank": 50,
+        "movement": 5,
+        "points": 1766,
+        "competitions_played": 25
+    },
+    {
+        "competitor_id": "P051",
+        "rank": 51,
+        "movement": 1,
+        "points": 8764,
+        "competitions_played": 33
+    },
+    {
+        "competitor_id": "P052",
+        "rank": 52,
+        "movement": -2,
+        "points": 11999,
+        "competitions_played": 31
+    },
+    {
+        "competitor_id": "P053",
+        "rank": 53,
+        "movement": 1,
+        "points": 1505,
+        "competitions_played": 24
+    },
+    {
+        "competitor_id": "P054",
+        "rank": 54,
+        "movement": 1,
+        "points": 9576,
+        "competitions_played": 24
+    },
+    {
+        "competitor_id": "P055",
+        "rank": 55,
+        "movement": 3,
+        "points": 3673,
+        "competitions_played": 11
+    },
+    {
+        "competitor_id": "P056",
+        "rank": 56,
+        "movement": -2,
+        "points": 10390,
+        "competitions_played": 12
+    },
+    {
+        "competitor_id": "P057",
+        "rank": 57,
+        "movement": -5,
+        "points": 10857,
+        "competitions_played": 33
+    },
+    {
+        "competitor_id": "P058",
+        "rank": 58,
+        "movement": -1,
+        "points": 7919,
+        "competitions_played": 23
+    },
+    {
+        "competitor_id": "P059",
+        "rank": 59,
+        "movement": -4,
+        "points": 956,
+        "competitions_played": 35
+    },
+    {
+        "competitor_id": "P060",
+        "rank": 60,
+        "movement": -3,
+        "points": 11759,
+        "competitions_played": 16
+    },
+    {
+        "competitor_id": "P061",
+        "rank": 61,
+        "movement": 1,
+        "points": 8441,
+        "competitions_played": 32
+    },
+    {
+        "competitor_id": "P062",
+        "rank": 62,
+        "movement": -2,
+        "points": 1299,
+        "competitions_played": 12
+    },
+    {
+        "competitor_id": "P063",
+        "rank": 63,
+        "movement": 0,
+        "points": 10049,
+        "competitions_played": 35
+    },
+    {
+        "competitor_id": "P064",
+        "rank": 64,
+        "movement": -5,
+        "points": 3227,
+        "competitions_played": 22
+    },
+    {
+        "competitor_id": "P065",
+        "rank": 65,
+        "movement": 0,
+        "points": 3773,
+        "competitions_played": 24
+    },
+    {
+        "competitor_id": "P066",
+        "rank": 66,
+        "movement": -2,
+        "points": 10791,
+        "competitions_played": 33
+    },
+    {
+        "competitor_id": "P067",
+        "rank": 67,
+        "movement": -4,
+        "points": 11071,
+        "competitions_played": 22
+    },
+    {
+        "competitor_id": "P068",
+        "rank": 68,
+        "movement": 4,
+        "points": 4785,
+        "competitions_played": 27
+    },
+    {
+        "competitor_id": "P069",
+        "rank": 69,
+        "movement": 3,
+        "points": 4405,
+        "competitions_played": 10
+    },
+    {
+        "competitor_id": "P070",
+        "rank": 70,
+        "movement": -3,
+        "points": 6285,
+        "competitions_played": 33
+    },
+    {
+        "competitor_id": "P071",
+        "rank": 71,
+        "movement": 2,
+        "points": 10289,
+        "competitions_played": 11
+    },
+    {
+        "competitor_id": "P072",
+        "rank": 72,
+        "movement": 1,
+        "points": 9794,
+        "competitions_played": 24
+    },
+    {
+        "competitor_id": "P073",
+        "rank": 73,
+        "movement": 4,
+        "points": 2364,
+        "competitions_played": 16
+    },
+    {
+        "competitor_id": "P074",
+        "rank": 74,
+        "movement": 1,
+        "points": 3711,
+        "competitions_played": 33
+    },
+    {
+        "competitor_id": "P075",
+        "rank": 75,
+        "movement": -5,
+        "points": 8894,
+        "competitions_played": 15
+    },
+    {
+        "competitor_id": "P076",
+        "rank": 76,
+        "movement": 0,
+        "points": 1752,
+        "competitions_played": 22
+    },
+    {
+        "competitor_id": "P077",
+        "rank": 77,
+        "movement": -5,
+        "points": 4605,
+        "competitions_played": 30
+    },
+    {
+        "competitor_id": "P078",
+        "rank": 78,
+        "movement": -2,
+        "points": 1706,
+        "competitions_played": 34
+    },
+    {
+        "competitor_id": "P079",
+        "rank": 79,
+        "movement": 2,
+        "points": 4221,
+        "competitions_played": 13
+    },
+    {
+        "competitor_id": "P080",
+        "rank": 80,
+        "movement": 4,
+        "points": 2362,
+        "competitions_played": 35
+    },
+    {
+        "competitor_id": "P081",
+        "rank": 81,
+        "movement": 4,
+        "points": 2646,
+        "competitions_played": 10
+    },
+    {
+        "competitor_id": "P082",
+        "rank": 82,
+        "movement": -4,
+        "points": 11992,
+        "competitions_played": 18
+    },
+    {
+        "competitor_id": "P083",
+        "rank": 83,
+        "movement": -3,
+        "points": 4611,
+        "competitions_played": 14
+    },
+    {
+        "competitor_id": "P084",
+        "rank": 84,
+        "movement": -3,
+        "points": 4213,
+        "competitions_played": 14
+    },
+    {
+        "competitor_id": "P085",
+        "rank": 85,
+        "movement": -1,
+        "points": 11032,
+        "competitions_played": 23
+    },
+    {
+        "competitor_id": "P086",
+        "rank": 86,
+        "movement": 5,
+        "points": 4607,
+        "competitions_played": 32
+    },
+    {
+        "competitor_id": "P087",
+        "rank": 87,
+        "movement": 0,
+        "points": 1525,
+        "competitions_played": 12
+    },
+    {
+        "competitor_id": "P088",
+        "rank": 88,
+        "movement": 1,
+        "points": 1958,
+        "competitions_played": 17
+    },
+    {
+        "competitor_id": "P089",
+        "rank": 89,
+        "movement": -2,
+        "points": 11052,
+        "competitions_played": 20
+    },
+    {
+        "competitor_id": "P090",
+        "rank": 90,
+        "movement": 1,
+        "points": 9148,
+        "competitions_played": 11
+    },
+    {
+        "competitor_id": "P091",
+        "rank": 91,
+        "movement": -3,
+        "points": 1270,
+        "competitions_played": 22
+    },
+    {
+        "competitor_id": "P092",
+        "rank": 92,
+        "movement": 1,
+        "points": 2233,
+        "competitions_played": 28
+    },
+    {
+        "competitor_id": "P093",
+        "rank": 93,
+        "movement": -5,
+        "points": 4980,
+        "competitions_played": 14
+    },
+    {
+        "competitor_id": "P094",
+        "rank": 94,
+        "movement": -3,
+        "points": 11421,
+        "competitions_played": 26
+    },
+    {
+        "competitor_id": "P095",
+        "rank": 95,
+        "movement": -2,
+        "points": 8409,
+        "competitions_played": 22
+    },
+    {
+        "competitor_id": "P096",
+        "rank": 96,
+        "movement": -1,
+        "points": 1324,
+        "competitions_played": 33
+    },
+    {
+        "competitor_id": "P097",
+        "rank": 97,
+        "movement": 5,
+        "points": 9074,
+        "competitions_played": 18
+    },
+    {
+        "competitor_id": "P098",
+        "rank": 98,
+        "movement": 4,
+        "points": 2019,
+        "competitions_played": 30
+    },
+    {
+        "competitor_id": "P099",
+        "rank": 99,
+        "movement": 2,
+        "points": 7594,
+        "competitions_played": 25
+    },
+    {
+        "competitor_id": "P100",
+        "rank": 100,
+        "movement": -2,
+        "points": 11733,
+        "competitions_played": 23
+    }
+]

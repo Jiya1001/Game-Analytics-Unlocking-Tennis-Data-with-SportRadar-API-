@@ -1,0 +1,402 @@
+[
+    {
+        "competition_id": "COMP001",
+        "competition_name": "Tennis Championship 1",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT006"
+    },
+    {
+        "competition_id": "COMP002",
+        "competition_name": "Tennis Championship 2",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT002"
+    },
+    {
+        "competition_id": "COMP003",
+        "competition_name": "Tennis Championship 3",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT004"
+    },
+    {
+        "competition_id": "COMP004",
+        "competition_name": "Tennis Championship 4",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT009"
+    },
+    {
+        "competition_id": "COMP005",
+        "competition_name": "Tennis Championship 5",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT001"
+    },
+    {
+        "competition_id": "COMP006",
+        "competition_name": "Tennis Championship 6",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT001"
+    },
+    {
+        "competition_id": "COMP007",
+        "competition_name": "Tennis Championship 7",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT010"
+    },
+    {
+        "competition_id": "COMP008",
+        "competition_name": "Tennis Championship 8",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT006"
+    },
+    {
+        "competition_id": "COMP009",
+        "competition_name": "Tennis Championship 9",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT002"
+    },
+    {
+        "competition_id": "COMP010",
+        "competition_name": "Tennis Championship 10",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT008"
+    },
+    {
+        "competition_id": "COMP011",
+        "competition_name": "Tennis Championship 11",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT003"
+    },
+    {
+        "competition_id": "COMP012",
+        "competition_name": "Tennis Championship 12",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT001"
+    },
+    {
+        "competition_id": "COMP013",
+        "competition_name": "Tennis Championship 13",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT002"
+    },
+    {
+        "competition_id": "COMP014",
+        "competition_name": "Tennis Championship 14",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT004"
+    },
+    {
+        "competition_id": "COMP015",
+        "competition_name": "Tennis Championship 15",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT009"
+    },
+    {
+        "competition_id": "COMP016",
+        "competition_name": "Tennis Championship 16",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT001"
+    },
+    {
+        "competition_id": "COMP017",
+        "competition_name": "Tennis Championship 17",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Women",
+        "category_id": "CAT001"
+    },
+    {
+        "competition_id": "COMP018",
+        "competition_name": "Tennis Championship 18",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT002"
+    },
+    {
+        "competition_id": "COMP019",
+        "competition_name": "Tennis Championship 19",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT010"
+    },
+    {
+        "competition_id": "COMP020",
+        "competition_name": "Tennis Championship 20",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT009"
+    },
+    {
+        "competition_id": "COMP021",
+        "competition_name": "Tennis Championship 21",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Women",
+        "category_id": "CAT004"
+    },
+    {
+        "competition_id": "COMP022",
+        "competition_name": "Tennis Championship 22",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT001"
+    },
+    {
+        "competition_id": "COMP023",
+        "competition_name": "Tennis Championship 23",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Women",
+        "category_id": "CAT002"
+    },
+    {
+        "competition_id": "COMP024",
+        "competition_name": "Tennis Championship 24",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT002"
+    },
+    {
+        "competition_id": "COMP025",
+        "competition_name": "Tennis Championship 25",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT007"
+    },
+    {
+        "competition_id": "COMP026",
+        "competition_name": "Tennis Championship 26",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT009"
+    },
+    {
+        "competition_id": "COMP027",
+        "competition_name": "Tennis Championship 27",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT003"
+    },
+    {
+        "competition_id": "COMP028",
+        "competition_name": "Tennis Championship 28",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT010"
+    },
+    {
+        "competition_id": "COMP029",
+        "competition_name": "Tennis Championship 29",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT008"
+    },
+    {
+        "competition_id": "COMP030",
+        "competition_name": "Tennis Championship 30",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT009"
+    },
+    {
+        "competition_id": "COMP031",
+        "competition_name": "Tennis Championship 31",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT008"
+    },
+    {
+        "competition_id": "COMP032",
+        "competition_name": "Tennis Championship 32",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT009"
+    },
+    {
+        "competition_id": "COMP033",
+        "competition_name": "Tennis Championship 33",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT004"
+    },
+    {
+        "competition_id": "COMP034",
+        "competition_name": "Tennis Championship 34",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT004"
+    },
+    {
+        "competition_id": "COMP035",
+        "competition_name": "Tennis Championship 35",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT003"
+    },
+    {
+        "competition_id": "COMP036",
+        "competition_name": "Tennis Championship 36",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT008"
+    },
+    {
+        "competition_id": "COMP037",
+        "competition_name": "Tennis Championship 37",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Women",
+        "category_id": "CAT005"
+    },
+    {
+        "competition_id": "COMP038",
+        "competition_name": "Tennis Championship 38",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Women",
+        "category_id": "CAT008"
+    },
+    {
+        "competition_id": "COMP039",
+        "competition_name": "Tennis Championship 39",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT003"
+    },
+    {
+        "competition_id": "COMP040",
+        "competition_name": "Tennis Championship 40",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT002"
+    },
+    {
+        "competition_id": "COMP041",
+        "competition_name": "Tennis Championship 41",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT009"
+    },
+    {
+        "competition_id": "COMP042",
+        "competition_name": "Tennis Championship 42",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT005"
+    },
+    {
+        "competition_id": "COMP043",
+        "competition_name": "Tennis Championship 43",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT008"
+    },
+    {
+        "competition_id": "COMP044",
+        "competition_name": "Tennis Championship 44",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Women",
+        "category_id": "CAT003"
+    },
+    {
+        "competition_id": "COMP045",
+        "competition_name": "Tennis Championship 45",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Women",
+        "category_id": "CAT010"
+    },
+    {
+        "competition_id": "COMP046",
+        "competition_name": "Tennis Championship 46",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT010"
+    },
+    {
+        "competition_id": "COMP047",
+        "competition_name": "Tennis Championship 47",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT001"
+    },
+    {
+        "competition_id": "COMP048",
+        "competition_name": "Tennis Championship 48",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT003"
+    },
+    {
+        "competition_id": "COMP049",
+        "competition_name": "Tennis Championship 49",
+        "parent_id": "",
+        "type": "Singles",
+        "gender": "Men",
+        "category_id": "CAT009"
+    },
+    {
+        "competition_id": "COMP050",
+        "competition_name": "Tennis Championship 50",
+        "parent_id": "",
+        "type": "Doubles",
+        "gender": "Men",
+        "category_id": "CAT009"
+    }
+]
